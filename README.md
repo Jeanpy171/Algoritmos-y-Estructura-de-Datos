@@ -1,1 +1,1 @@
-# Algoritmos-y-Estructura-de-Datos
+EJERCICIO DE SOFTWARE DE CONTEO DE CABLES
